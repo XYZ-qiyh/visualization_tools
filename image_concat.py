@@ -13,7 +13,7 @@ if __name__ == '__main__':
     path_normal_map = os.path.join(path_image_dir, 'stereo\\normal_maps\\100_7104_JPG_geometric.png')
     
     image = cv2.imread(path_image)
-    print(image.shape)
+    print(image.shape) #[H, W, C]
     depth_map = cv2.imread(path_depth_map)
     normal_map = cv2.imread(path_normal_map)
     
