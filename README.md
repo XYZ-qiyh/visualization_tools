@@ -9,3 +9,5 @@ several images
 ## output
 concatenated image
 ![image](https://github.com/Qtodd/image_concatenate/raw/master/images-folder/image_concatenated.jpg)
+
+#### Note: If you found this repository useful, please star it.
