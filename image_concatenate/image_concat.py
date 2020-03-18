@@ -5,7 +5,6 @@ import cv2
 import numpy as np
 
 if __name__ == '__main__':
-    # path_image_dir = '/mnt/A/qiyh/2020/MVS/COLMAP_test/SceauxCastle/dense/0'
     path_image_dir = 'C:\\Users\\ToddyQi\\Desktop\\SceauxCastle\\SceauxCastle\\dense\\0'
 
     path_image = os.path.join(path_image_dir, 'images\\100_7104.JPG')
