@@ -3,8 +3,6 @@
 
 1. concatenate images using opencv-python
 
-2. matplotlib subplot
+2. depth map to color
 
-3. matplotlib without blank area
-
-4. python to html(static)
+3. python to html(static) using `pml`
