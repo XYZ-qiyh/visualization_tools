@@ -3,6 +3,6 @@
 
 1. concatenate images using opencv-python
 
-2. depth map to color
+2. example of `cv2.applyColorMap`
 
 3. python to html(static) using `pml`
