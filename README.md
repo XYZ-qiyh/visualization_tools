@@ -5,4 +5,6 @@
 
 2. example of `cv2.applyColorMap`
 
-3. python to html(static) using `pml`
+3. draw_bbox using opencv-python
+
+4. python to html(static) using `pml`
