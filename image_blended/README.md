@@ -12,5 +12,6 @@
 </table>
 
 ## output
-blended image (alpha=0.25, beta=0.75)
 ![image](https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/image_blended/blended_image.jpg)
+
+blended image (alpha=0.25, beta=0.75)
