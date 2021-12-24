@@ -19,6 +19,10 @@
   </tr>
 </table>
 
+### Usage:
+`python gray2color_normal.py ./colmap_data/scan2_vid2_normal.bin`
+
+
 ### Note:
-+ normal map Visualization: l2-normalized and reverse
++ normal map Visualization: reverse and l2-normalized
 + depth-to-normal using [method](https://github.com/XiWJ/tricks/tree/master/ComputeNormal) with K_size=5
