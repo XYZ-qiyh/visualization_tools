@@ -2,19 +2,23 @@
 
  <table align="center">
   <tr>
-    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/image_draw_bbox/images-folder/snapshot00.png" width="450" height="400"></td>
-    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/image_draw_bbox/images-folder/snapshot00_bbox.png" width="450" height="400"></td>
+    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/visualize_normal_map/images/scan2_vid2.png" width="400" height="300"></td>
+    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/visualize_normal_map/images/scan2_vid2_depth.jpg" width="400" height="300"></td>
   </tr>
   <tr>
-    <td>original image</td>
-    <td>image with bbox</td>
+    <td>scan2 vid2</td>
+    <td>depth map</td>
   </tr>
    <tr>
-    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/image_draw_bbox/images-folder/snapshot00.png" width="450" height="400"></td>
-    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/image_draw_bbox/images-folder/snapshot00_bbox.png" width="450" height="400"></td>
+    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/visualize_normal_map/images/scan2_vid2_normal.jpg" width="400" height="300"></td>
+    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/visualize_normal_map/images/depth2normal.jpg" width="400" height="300"></td>
   </tr>
   <tr>
-    <td>original image</td>
-    <td>image with bbox</td>
+    <td>normal map</td>
+    <td>depth-to-normal</td>
   </tr>
 </table>
+
+### Note:
++ normal map Visualization: l2-normalized and reverse
++ depth-to-normal using [method](https://github.com/XiWJ/tricks/tree/master/ComputeNormal) with K_size=5
