@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>normal map</td>
-    <td>depth-to-normal</td>
+    <td>depth-to-normal (masked)</td>
   </tr>
 </table>
 
