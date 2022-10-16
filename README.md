@@ -1,13 +1,15 @@
-### Visualization in python(Vip)
-### Some Useful Scripts for Visualization in Python
-+ blend image and label image using `cv2.addWeighted`
+### Visualization in python
+### 基于Python的可视化脚本文件
 
-+ concatenate images using opencv-python
+#### OpenCV
 
-+ draw bounding box using opencv-python
++ todo1
 
-+ python to html(static) using `pml`
+#### Matploblib
 
-+ visualize depth map (an example of `cv2.applyColorMap`)
++ todo2
 
-+ visualize normal map (COLMAP) and depth2normal
+#### Open3D
+
++ todo3
+
