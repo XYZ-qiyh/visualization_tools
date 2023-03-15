@@ -2,9 +2,9 @@
 
  <table align="center">
   <tr>
-    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/image_blended/images/color.png" width="320" height="256"></td>
-    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/image_blended/images/sparse_points.jpg" width="320" height="256"></td>
-    <td><img src="https://github.com/XYZ-qiyh/Visualization-in-python-Vip/blob/master/image_blended/images/blended_image.jpg" width="320" height="256"></td>
+    <td><img src="images/color.png" width="320" height="256"></td>
+    <td><img src="images/sparse_points.jpg" width="320" height="256"></td>
+    <td><img src="images/blended_image.jpg" width="320" height="256"></td>
   </tr>
   <tr>
     <td>image</td>
