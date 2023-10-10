@@ -1,2 +1,0 @@
-Matplotlib --> gif
-https://github.com/jaantollander/OneEuroFilter/blob/master/python/example.py#L63

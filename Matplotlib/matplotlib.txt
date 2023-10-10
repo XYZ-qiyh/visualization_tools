@@ -1,0 +1,8 @@
+Matplotlib --> gif
+https://github.com/jaantollander/OneEuroFilter/blob/master/python/example.py#L63
+
+3D Scatter Plotting in Python using Matplotlib
+https://www.geeksforgeeks.org/3d-scatter-plotting-in-python-using-matplotlib/
+
+Draw a horizontal bar chart with Matplotlib
+https://www.geeksforgeeks.org/draw-a-horizontal-bar-chart-with-matplotlib/
